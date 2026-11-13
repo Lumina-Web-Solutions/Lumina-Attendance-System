@@ -1,0 +1,14 @@
+{
+  "name": "lumina-attendance",
+  "version": "1.0.0",
+  "description": "Lumina Automations fingerprint attendance server and dashboard",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=22.13"
+  },
+  "license": "UNLICENSED",
+  "private": true
+}
